@@ -113,7 +113,7 @@ AI Developer | UIUX Developer | Video Editor
 
 For collaborations, improvements, or any queries:
 - ✉️ Email: tharuntejandhe@gmail.com  
-- 🌐 Website: [www.vatrixai.com]([http://www.vatrixai.com](https://nirvaagni-oeg1.onrender.com/) <!-- Replace if different -->
+- 🌐 Website: [www.vatrixai.com](https://nirvaagni-oeg1.onrender.com/) <!-- Replace if different -->
 
 ---
 
