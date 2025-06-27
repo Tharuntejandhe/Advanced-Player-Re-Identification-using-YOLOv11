@@ -1,6 +1,3 @@
-# Full updated code with advanced ResNet50-based feature extraction
-# and improved Re-ID matching system
-
 import cv2
 import numpy as np
 import tkinter as tk
@@ -240,6 +237,6 @@ class PlayerReIDSystem:
         self.root.mainloop()
 
 if __name__ == "__main__":
-    MODEL_PATH = "C:/object_detection_soccer/best_1.pt"
+    MODEL_PATH = " ..../best.pt" # replace with your model path
     app = PlayerReIDSystem(model_path=MODEL_PATH)
     app.run()
