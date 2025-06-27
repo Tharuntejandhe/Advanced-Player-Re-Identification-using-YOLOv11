@@ -15,19 +15,19 @@ The **Player Re-ID System** is built using a fine-tuned **Ultralytics YOLOv11 mo
  - Replace the model path with your model path in the python script (GUI Appears)
  - PLease click on the select video button on GUI (Select video --> Start ) processing starts.
 ##  Requirements
--Python version-->3.10.1 or above,
--torch>=2.0.0,
--torchvision>=0.15.0,
--ultralytics>=8.0.0,
--opencv-python>=4.7.0.72,
--numpy>=1.23.0,
--Pillow>=9.5.0,
--tk>=0.1.0,
--matplotlib>=3.7.0,
--tqdm>=4.65.0,
+- Python version-->3.10.1 or above,
+- torch>=2.0.0,
+- torchvision>=0.15.0,
+- ultralytics>=8.0.0,
+- opencv-python>=4.7.0.72,
+- numpy>=1.23.0,
+- Pillow>=9.5.0,
+- tk>=0.1.0,
+- matplotlib>=3.7.0,
+- tqdm>=4.65.0,
 # optional 
--onnxruntime>=1.15.0,
--onnx>=1.14.0
+- onnxruntime>=1.15.0,
+- onnx>=1.14.0
 
 > ⚽️ Imagine you're watching a football match and want to analyze player movement. This system annotates each player with a consistent ID, color, and bounding box, helping automate tactical analysis and behavior tracking.
 
