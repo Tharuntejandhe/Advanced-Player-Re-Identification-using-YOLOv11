@@ -1,7 +1,7 @@
 # Advanced Player Re-Identification System using YOLLOv11 🎯
 
 Welcome to the official repository of the **Player Re-Identification System**, a computer vision-based project that combines real-time object detection with deep appearance-based tracking to uniquely identify and persistently track each player in a football video.
-Here is the [link for the model](https://drive.google.com/file/d/11wp2Y2-y2Qw2zOLBW1acwEVypcPHAGCW/view?usp=drive_link).
+Here is the [link for the YOLOv11 model](https://drive.google.com/file/d/11wp2Y2-y2Qw2zOLBW1acwEVypcPHAGCW/view?usp=drive_link).
 
 ---
 
