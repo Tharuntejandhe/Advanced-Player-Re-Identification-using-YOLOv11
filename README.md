@@ -8,8 +8,8 @@ Here is the [link for the model]([https://your-model-link.com](https://drive.goo
 ## 🔍 Project Overview
 
 The **Player Re-ID System** is built using a fine-tuned **Ultralytics YOLOv11 model** for player detection and a feature-based matching algorithm using **ResNet50** for re-identification. It ensures that each player is consistently assigned the same ID across frames — even after occlusion, disappearance, or re-entry.
-PLease click on the select video button on GUI (Select video --> Start )
-> The processing starts.
+##PLease click on the select video button on GUI (Select video --> Start )
+##> The processing starts.
 
 > ⚽️ Imagine you're watching a football match and want to analyze player movement. This system annotates each player with a consistent ID, color, and bounding box, helping automate tactical analysis and behavior tracking.
 
