@@ -10,7 +10,8 @@ Here is the [link for the YOLOv11 model](https://drive.google.com/file/d/11wp2Y2
 The **Player Re-ID System** is built using a fine-tuned **Ultralytics YOLOv11 model** for player detection and a feature-based matching algorithm using **ResNet50** for re-identification. It ensures that each player is consistently assigned the same ID across frames — even after occlusion, disappearance, or re-entry.
 ## Setup
  - Download the model from [Here](https://drive.google.com/file/d/11wp2Y2-y2Qw2zOLBW1acwEVypcPHAGCW/view?usp=drive_link)
- - Open detect_!.py 
+ - Open detect_!.py
+ - Install dependencies
  - Replace the model path with your model path in the python script (GUI Appears)
  - PLease click on the select video button on GUI (Select video --> Start ) processing starts.
 ##  Requirements
